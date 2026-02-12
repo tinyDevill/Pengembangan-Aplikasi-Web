@@ -31,7 +31,8 @@ fun App() {
             modifier = Modifier.fillMaxWidth(),
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
-            Text("Hello, World!") // Text component
+            Text("Hello, Abi!") // Text component
+            Text("123140192")
 
             Button( // Button component
                 onClick = { showContent = !showContent }
